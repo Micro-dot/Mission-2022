@@ -1,0 +1,92 @@
+.flex1{
+    display: flex;
+    padding-left: 150px;
+}
+.flex1 img{
+    width: 50%;
+    padding-left:250px;
+}
+.one-section{
+    padding-top: 150px;
+    width: 100%;
+}
+.font-size{
+    font-size: 15px;
+    width: 150%;
+    
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(199, 63, 63);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+.color{
+    color: orange;
+}.illustrators1{
+    display: flex;
+    justify-content: space-around;
+    padding:150px;   
+}
+.div-img img{
+    width: 60%;
+}
+.illustrators{
+    width: 250px;
+    border: 2px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 10px;
+    background-color:rgb(214, 252, 252);
+    padding: 10px;
+}
+.blue{
+    color: rgb(83, 83, 112);
+}
+.coding{
+    display: flex;
+    padding: 150px;
+
+}
+.coding-img img{
+    width: 150%;
+    padding: 50px;
+
+}
+.second-section{
+    width: 400%;
+    padding-left: 300px;
+}
+.project{
+    display: flex;
+    padding:150px;
+}
+.project-img img{
+    width: 70%;
+    padding-left: 100px;
+}
+.third-section{
+    width: 200%;
+}
+.app-2{
+    display: flex;
+    padding:150px;
+}
+.app-img img{
+    width:150%;
+    height:100%;
+}
+.four-section{
+    padding-left: 250px;
+}
+footer{
+    background-color: rgb(37, 36, 46);
+    text-align: center;
+    color: white;
+    padding:10px;
+}
+.border{
+    border-left:2px solid rgb(231, 84, 58);
+    padding: 0px 2px;
+
+}
