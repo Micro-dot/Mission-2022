@@ -27,7 +27,7 @@
 }.illustrators1{
     display: flex;
     justify-content: space-around;
-    padding:150px;   
+    padding:30px 150px;   
 }
 .div-img img{
     width: 60%;
@@ -45,7 +45,7 @@
 }
 .coding{
     display: flex;
-    padding: 150px;
+    padding: 20px 150px;
 
 }
 .coding-img img{
@@ -59,7 +59,7 @@
 }
 .project{
     display: flex;
-    padding:150px;
+    padding:20px 150px;
 }
 .project-img img{
     width: 70%;
